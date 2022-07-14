@@ -1,6 +1,6 @@
 {
-  "name": "generator-rong-createVue",
-  "version": "1.0.0",
+  "name": "generator-rong-create-vue",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "rong",
   "license": "MIT",
